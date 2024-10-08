@@ -1,2 +1,2 @@
 # practica01_web
-![image] ()
+![image] (https://angelo-loor.netlify.app/)
